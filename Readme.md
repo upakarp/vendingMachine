@@ -19,3 +19,4 @@
 
 ## Front End Description
 -> Front end simply list the sodas and option to purchase the soda for customer
+-> First the soda need to be populated from the admin panel
