@@ -2,14 +2,14 @@
 
 ## To start the server
 
-### cd server
-### npm install
-### npm start
+##### cd server
+##### npm install
+##### npm start
 
 ## To start the client
-### cd server/client/vending-machine
-### npm install
-### npm start
+##### cd server/client/vending-machine
+##### npm install
+##### npm start
 
 
 ## Api Description
