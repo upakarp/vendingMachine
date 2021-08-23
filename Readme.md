@@ -1,12 +1,12 @@
 # Getting Started with the Project
 
-To start the server
+## To start the server
 
 ### cd server
 ### npm install
 ### npm start
 
-To start the client
+## To start the client
 ### cd server/client/vending-machine
 ### npm install
 ### npm start
