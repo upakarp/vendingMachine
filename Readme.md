@@ -2,12 +2,12 @@
 
 ## To start the server
 
-##### cd server
+##### cd vendingMachine/server
 ##### npm install
 ##### npm start
 
 ## To start the client
-##### cd server/client/vending-machine
+##### cd vendingMachine/server/client/vending-machine
 ##### npm install
 ##### npm start
 
