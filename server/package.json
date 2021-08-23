@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "mocha --recursive --exit"
+  },
+  "author": "upakarpaudel96@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@admin-bro/express": "^3.1.0",
+    "@admin-bro/mongoose": "^1.1.0",
+    "admin-bro": "^4.0.1",
+    "admin-bro-expressjs": "^2.1.1",
+    "admin-bro-mongoose": "^0.5.2",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "mocha": "^9.1.0",
+    "mockgoose": "^8.0.4",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "supertest": "^6.1.6",
+    "tslib": "^2.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
